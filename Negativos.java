@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 public class Negativos {
 	public static void main(String[] args) {
@@ -25,3 +26,4 @@ public class Negativos {
 		
 	}
 }
+
