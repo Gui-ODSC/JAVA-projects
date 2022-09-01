@@ -1,3 +1,4 @@
+
 package exercicio2;
 import java.util.Scanner;
 
@@ -27,3 +28,4 @@ public class Soma_Vetor {
 		System.out.printf("\nMEDIA = %.2f", media);
 	}
 }
+
